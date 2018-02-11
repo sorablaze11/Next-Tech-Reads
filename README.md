@@ -11,3 +11,5 @@ The model is predicting user book based recommendations based upon Age, Previous
 
 # Recommendation system
 The system uses the algorithms such as collaborative filtering, euclidian distances, K Nearest Neighbourhood, User similarity score and LSTM to predict output emotion for a given sequence of input of words.
+
+Project done by UnderGrads [@ Next Tech Lab](http://nextech.io/index2.html)
